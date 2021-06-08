@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently seeking an opportunity as a fresher in Front End Development Role.
 - 🌱 I’m currently learning JavaScript and PHP.
 - 💬 Ask me about HTML, CSS, BOOTSTRAP.
-- 📫 How to reach me my mail-id: priyankajain091293@gmail.com
+- 📫 How to reach me:  My mail-id priyankajain091293@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
