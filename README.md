@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyanka-jain-44a408162" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1623136431~hmac=7022bde5757ba54b3489d6405ba6564e" alt="priyanka-jain-44a408162" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/priyanka-jain-44a408162" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="priyanka-jain-44a408162" height="30" width="40"/></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/60/60543.png" alt="priyankajain091293@gmail.com" height="30" width="40"/></a>
 </p>
 
